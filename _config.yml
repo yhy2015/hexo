@@ -4,8 +4,8 @@
 
 # Site
 title: y2015'blog
-subtitle: only just for taste
-description: iOS android JS GO 
+subtitle: 每天一点点
+description:  a little more every day
 keywords:
 author: y2015
 language: zh-Hans
@@ -14,7 +14,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
-root: /
+root: / 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
