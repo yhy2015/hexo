@@ -19,6 +19,7 @@
     #}{{ totalcount(site, '0,0.0a') }}{#
   #}</span>
   {% endif %}
+  <a href="http://beian.miit.gov.cn">鲁ICP备2024053242号-1</a>
 </div>
 
 {% if theme.footer.powered %}
