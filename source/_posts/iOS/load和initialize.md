@@ -1,6 +1,6 @@
 ---
 title: load和initialize
-date: 2018-07-12 10:11:12
+date: 2023-07-12 10:11:12
 ---
 
 ``` objc

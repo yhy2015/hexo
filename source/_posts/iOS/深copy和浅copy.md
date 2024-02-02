@@ -1,6 +1,6 @@
 ---
 title: 深copy和浅copy
-date: 2018-01-12 19:12:12
+date: 2023-01-12 19:12:12
 tags: iOS
 ---
 >在iOS中并不是所有的对象都支持copy，mutableCopy，遵守NSCopying 协议的类可以发送copy消息，遵守NSMutableCopying 协议的类才可以发送mutableCopy消息。

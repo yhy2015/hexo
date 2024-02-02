@@ -1,6 +1,6 @@
 ---
 title: TextView-placeHolder
-date: 2017-10-14 14:13:12
+date: 2023-10-14 14:13:12
 tags: iOS
 ---
 TextView有placeHolderLabel这个私有属性，我们可以用万能的kvc调用

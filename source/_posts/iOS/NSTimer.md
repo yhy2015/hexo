@@ -1,6 +1,6 @@
 ---
 title: NSTimer
-date: 2017-01-04 13:12:13
+date: 2023-01-04 13:12:13
 tags: iOS
 ---
 >http://www.jianshu.com/p/9e7e8c806ea3
